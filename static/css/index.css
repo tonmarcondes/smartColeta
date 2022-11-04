@@ -1,0 +1,78 @@
+.presentation-painel {  
+    background-image: linear-gradient(#000000A0,#00000000, #000000A0), url(../imgs/paisagem_2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    min-height: 600px;
+}
+
+.presentation-text { 
+    padding: 140px;
+    width: 1000px;
+    text-align: left;
+ }
+
+.btn-success {
+    padding: 10px;
+    width: 250px;
+}
+
+.reciclagem-img {  
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    min-width: 52%;
+    min-height: 500px;
+}
+
+.reciclagem-painel {  
+    background: linear-gradient(#284521,#6A6E3A, #284521);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    min-height: 500px;
+}
+
+.image-container {
+    display: flex; 
+    flex-wrap: wrap;
+}
+
+.image-container > div {
+    flex: 1 1 600px;
+}
+
+.image1 { background-image: linear-gradient(#000000A0,#00000000, #000000A0), url(../imgs/Reciclados.jpg); }
+
+.image2 { background-image: linear-gradient(#000000A0,#00000000, #000000A0), url(../imgs/Reciclando.jpg);}
+
+h1 {
+    color: #FFFFFF;
+    font-size: 64px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    line-height: 70px;
+    letter-spacing: -3px;
+}
+
+h3 {
+    color: #FFFFFF;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 33px;
+}
+
+.block {
+    padding: 20%;
+}

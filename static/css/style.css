@@ -1,0 +1,29 @@
+body, ul, li, p {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+body { background-color: #626363;}
+
+.info-bar { background-color: #2B2B2B; height: 25px; width: 100%; }
+
+.nav-bar {
+    background-color: #F98F2A;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.nav-menu { display: flex; }
+
+a { text-decoration:none; color: #2B2B2B; }
+
+.nav-button {
+    display: block;
+    padding: 16px;
+    font-weight: bold;
+    font-size: 20px;
+}
