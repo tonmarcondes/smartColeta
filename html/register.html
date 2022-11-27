@@ -37,7 +37,7 @@
             <form class="container" action="/register" method="POST">
                 <div class="mb-3">
                     <label for="cpf" class="form-label">CPF:</label>
-                    <input type="cpf" class="form-control" id="cpf" name="cpf" aria-describedby="emailHelp">
+                    <input type="cpf" class="form-control" id="cpf" name="cpf" aria-describedby="emailHelp" maxlength="11" inputmode="numeric">
                     <div class="invalid-feedback" style="display: block;">{{error_cpf}}</div>
                 </div>
                 <div class="mb-3">
