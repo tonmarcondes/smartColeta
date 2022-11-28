@@ -11,8 +11,8 @@
 
 .presentation-text { 
     padding: 140px;
-    width: 1000px;
-    text-align: left;
+    min-height: 500px;
+    /* text-align: left; */
  }
 
 .btn-success {
