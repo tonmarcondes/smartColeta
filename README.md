@@ -6,6 +6,11 @@ Projeto Integrador **UNIVESP**, polo Pirassununga sobre a gestão sustentável d
 
 ![Tela Inicial](./static/imgs/print.png)
 
-|Integrantes|
----
-|Wellyngton Marcondes|
+| Integrantes | RA |
+:---|---
+| Carlos Alberto Prevato Junior | 2015284 |
+|Carlos Eduardo Fávaro da Silva Pessoa|2003774|
+|David Machado de Avela|2005036|
+|Marcelo Silvestre|2007881|
+|Patrick da Silva Américo|2015736|
+|Wellyngton Marcondes|2014425|
