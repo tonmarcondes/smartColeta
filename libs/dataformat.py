@@ -2,10 +2,10 @@ from datetime import datetime, timedelta
 
 #html
 TO_LOGIN = "<li class=\"nav-button\"><a href=\"/login\"  class=\"btn btn-outline-success\">ENTRAR</a></li> <li class=\"nav-button\"><a href=\"/register\" class=\"btn btn-outline-success\">REGISTRAR</a></li>"
-LOGED = "<li class=\"nav-button\"><a href=\"/logout\" class=\"btn btn-dark\">SAIR</a></li>"
+LOGED = "<li class=\"nav-button\"><a href=\"/logout\" class=\"btn btn-dark btn-block\">SAIR</a></li>"
 USER_PAINEL = "<li class=\"nav-button\"><a href=\"/user\">USUÁRIO</a></li>"
 INDEX_ADMIN_PAINEL = "<li class=\"nav-button\"><a href=\"/painel\" class=\"btn btn-outline-dark\">PAINEL</a></li>"
-PAINEL_REGISTER_BUTTON = "<li class=\"nav-button\"><a href=\"/register\" class=\"btn btn-outline-dark btn-lg\"  data-bs-toggle=\"tooltip\" data-bs-title=\"Cadastro de usuário\">USUÁRIO</a></li>"
+PAINEL_REGISTER_BUTTON = "<li class=\"nav-button\"><a href=\"/register\" class=\"btn btn-outline-dark btn-block\"  data-bs-toggle=\"tooltip\" data-bs-title=\"Cadastro de usuário\">USUÁRIO</a></li>"
 ADMIN_REGISTER_CHECK = "<div style=\"display:flex;\"><input class=\"form-check-input\" style= \"padding: 10px;\" type=\"checkbox\" id=\"worker\" name=\"worker\" value=\"worker\" aria-label=\"...\"/> <div style=\"text-align: center; padding:2px\"> Funcionário</div></div>"
 
 #mensagens de erro
