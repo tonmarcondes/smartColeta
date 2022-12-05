@@ -25,10 +25,10 @@ O banco de dados usado para este projeto foi o MySQL com os relacionamentos que 
 ## Integrantes
 
 | Nome | RA |
-:---|---
-|Carlos Alberto Prevato Junior|2015284|
+:---|---|
 |Carlos Eduardo Fávaro da Silva Pessoa|2003774|
 |David Machado de Avela|2005036|
+|Eduardo Vicente Duarte Nunes|2010716|
 |Marcelo Silvestre|2007881|
-|Patrick da Silva Américo|2015736|
+|Patrick da SIlva Américo|2015736|
 |Wellyngton Marcondes|2014425|
