@@ -6,9 +6,21 @@ Projeto Integrador **UNIVESP**, polo Pirassununga sobre a gestão sustentável d
 
 ![Tela Inicial](./static/imgs/print.png)
 
-| Integrantes | RA |
+## Instalação
+
+`useradd -m usuario;passwd usuario;usermod -a -G sudo usuario;chsh -s /bin/bash usuario`
+
+```bash
+git clone https://github.com/tonmarcondes/smartColeta.git
+cd smartColeta
+pip install -r requirements.txt
+```
+
+## Integrantes
+
+| Nome | RA |
 :---|---
-| Carlos Alberto Prevato Junior | 2015284 |
+|Carlos Alberto Prevato Junior|2015284|
 |Carlos Eduardo Fávaro da Silva Pessoa|2003774|
 |David Machado de Avela|2005036|
 |Marcelo Silvestre|2007881|
