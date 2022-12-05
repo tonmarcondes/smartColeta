@@ -16,6 +16,11 @@ cd smartColeta
 pip install -r requirements.txt
 flask run
 ```
+## Banco de dados relacional
+
+O banco de dados usado para este projeto foi o MySQL com os relacionamentos que seguem de acordo com o modelo abaixo:
+
+![MER](./static/imgs/mer.png)
 
 ## Integrantes
 
