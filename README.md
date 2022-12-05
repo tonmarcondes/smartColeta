@@ -14,6 +14,7 @@ Projeto Integrador **UNIVESP**, polo Pirassununga sobre a gestão sustentável d
 git clone https://github.com/tonmarcondes/smartColeta.git
 cd smartColeta
 pip install -r requirements.txt
+flask run
 ```
 
 ## Integrantes
